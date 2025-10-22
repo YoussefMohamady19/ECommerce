@@ -94,6 +94,9 @@ Visual Studio 2022
 
 Postman (for API testing)
 
+## Database Schema
+You Can open file Database Schema.docx
+
 ## Postman Collection
 
 You can import the ready-made Postman collection for testing the API:
