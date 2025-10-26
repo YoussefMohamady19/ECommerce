@@ -105,6 +105,6 @@ You can import the ready-made Postman collection for testing the API:
  Author
 
 ## Youssef Mohamady
-- yousef.uouo9@gmail.com
+youssefmohamady121@gmail.com
 
 - Full Stack .NET Developer
